@@ -1,3 +1,3 @@
-# AI Engine
+# Paper Explainer App
 
-Description of your AI engine project goes here.
+This app helps me understand research papers.
