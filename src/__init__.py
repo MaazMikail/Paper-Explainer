@@ -1,4 +1,4 @@
-from .cache import AICache
+from .cache import CacheResult
 from .chat_completions import CachedChatCompletions
 from .exceptions import APICallError
 
